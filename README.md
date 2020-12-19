@@ -1,4 +1,4 @@
 # RoboticsRoadmap
-Roadmap of skills for full-stack Robotics engineer
+Roadmap with skills for a full-stack Robotics engineer
 
 ![roadmap](roadmap.png)
