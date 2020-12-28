@@ -1,0 +1,68 @@
+/**
+ * Custom Styles here.
+ *
+ * ref：https://v1.vuepress.vuejs.org/config/#index-styl
+ */
+.mindmap-svg
+  height: 100vh
+  max-width: calc(100vw - 20rem)!important
+  width: calc(100vw - 20rem)
+  margin-left: calc(50% - 50vw + 10rem)
+  margin-right: calc(50% - 50vw + 10rem)
+
+  &:focus
+    outline: none
+
+.mindmap-node > a
+  color: $textColor
+  background-color: #fff
+  border-radius: 30px
+  border-width: 2px
+  border-style: solid
+  display: inline-block
+  font-size: 22px
+  margin: 0 auto
+  padding: 10px
+  text-align: center
+  text-decoration: none
+
+  &[href]
+    &:hover
+      background-color: $accentColor
+      border-color: $accentColor
+      color: #fff
+      cursor: pointer
+
+.mindmap-node--editable
+  cursor: all-scroll
+
+  & > a
+    pointer-events: none
+
+.mindmap-subnode-text
+  background-color: #222
+  color: 111
+
+.mindmap-subnode-group
+  align-items: center
+  border-left: 4px solid $accentColor
+  display: flex
+  margin-left: 15px
+  padding: 5px
+
+  a
+    color: #111
+    font-size: 16px
+    padding: 2px 5px
+
+    &:hover
+      color: $accentColor
+
+.mindmap-connection
+  fill: transparent
+  stroke: $accentColor
+  stroke-width: 2px
+
+.mindmap-emoji
+  height: 25px
+  width: 25px

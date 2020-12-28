@@ -1,0 +1,6 @@
+/.venv
+/node_modules
+
+# Vuepress
+/src/.vuepress/dist
+/src/.vuepress/trees/*
