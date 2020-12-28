@@ -4,7 +4,7 @@ export default
     'nodes': [
         {
             'text': 'Robotics Engineer',
-            'url': 'RoboticsRoadmap/roadmap/',
+            'url': 'roadmap/',
             'fx': -400,
             'fy': -500,
             'category': 'node',
@@ -14,24 +14,24 @@ export default
             'text': 'Robo-manager',
             'fx': -150,
             'fy': -200,
-            'url': '/roadmap/robo_manager',
+            'url': 'roadmap/robo_manager/',
             'category': 'node',
             'nodes': [
                 {
                     'text': 'Human Resources',
-                    'url': '/roadmap/robo_manager/hr',
+                    'url': 'roadmap/robo_manager/hr/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Product Owner',
-                    'url': '/roadmap/robo_manager/product_owner',
+                    'url': 'roadmap/robo_manager/product_owner/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Project Manager',
-                    'url': '/roadmap/robo_manager/project_manager',
+                    'url': 'roadmap/robo_manager/project_manager/',
                     'category': 'node',
                 },
             ],
@@ -41,36 +41,36 @@ export default
             'text': 'Robo-integrator',
             'fx': -50,
             'fy': -500,
-            'url': '/roadmap/robo_integrator',
+            'url': 'roadmap/robo_integrator/',
             'category': 'node',
             'nodes': [
                 {
                     'text': 'ROS',
-                    'url': '/roadmap/robo_integrator/ros',
+                    'url': 'roadmap/robo_integrator/ros/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'DevOps',
-                    'url': '/roadmap/robo_integrator/devops',
+                    'url': 'roadmap/robo_integrator/devops/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'API',
-                    'url': '/roadmap/robo_integrator/api',
+                    'url': 'roadmap/robo_integrator/api/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Storage',
-                    'url': '/roadmap/robo_integrator/storage',
+                    'url': 'roadmap/robo_integrator/storage/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Cloud',
-                    'url': '/roadmap/robo_integrator/cloud',
+                    'url': 'roadmap/robo_integrator/cloud/',
                     'category': 'node',
                 },
             ],
@@ -80,72 +80,72 @@ export default
             'text': 'Robo-scientist',
             'fx': 100,
             'fy': -350,
-            'url': '/roadmap/robo_scientist',
+            'url': 'roadmap/robo_scientist/',
             'category': 'node',
             'nodes': [
                 {
                     'text': 'Data Science',
-                    'url': '/roadmap/robo_scientist/data_science',
+                    'url': 'roadmap/robo_scientist/data_science/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Optimization',
-                    'url': '/roadmap/robo_scientist/optimization',
+                    'url': 'roadmap/robo_scientist/optimization/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Control Theory',
-                    'url': '/roadmap/robo_scientist/control_theory',
+                    'url': 'roadmap/robo_scientist/control_theory/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Computer Vision',
-                    'url': '/roadmap/robo_scientist/computer_vision/',
+                    'url': 'roadmap/robo_scientist/computer_vision/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Decision Making',
-                    'url': '/roadmap/robo_scientist/decision_making/',
+                    'url': 'roadmap/robo_scientist/decision_making/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Localization',
-                    'url': '/roadmap/robo_scientist/localization/',
+                    'url': 'roadmap/robo_scientist/localization/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Calculus',
-                    'url': '/roadmap/robo_scientist/calculus/',
+                    'url': 'roadmap/robo_scientist/calculus/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Linear Algebra',
-                    'url': '/roadmap/robo_scientist/linear_algebra/',
+                    'url': 'roadmap/robo_scientist/linear_algebra/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Differential Equations',
-                    'url': '/roadmap/robo_scientist/differential_equations/',
+                    'url': 'roadmap/robo_scientist/differential_equations/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Physics',
-                    'url': '/roadmap/robo_scientist/physics/',
+                    'url': 'roadmap/robo_scientist/physics/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Probability and Statistics',
-                    'url': '/roadmap/robo_scientist/prob_stat/',
+                    'url': 'roadmap/robo_scientist/prob_stat/',
                     'category': 'node',
                 },
             ],
@@ -155,36 +155,36 @@ export default
             'text': 'Robo-human',
             'fx': -550,
             'fy': -200,
-            'url': '/roadmap/robo_human',
+            'url': 'roadmap/robo_human/',
             'category': 'node',
             'nodes': [
                 {
                     'text': 'Communication',
-                    'url': '/roadmap/robo_human/communication/',
+                    'url': 'roadmap/robo_human/communication/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Teamwork',
-                    'url': '/roadmap/robo_human/teamwork/',
+                    'url': 'roadmap/robo_human/teamwork/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Time management',
-                    'url': '/roadmap/robo_human/time_management/',
+                    'url': 'roadmap/robo_human/time_management/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Stress management',
-                    'url': '/roadmap/robo_human/stress_management',
+                    'url': 'roadmap/robo_human/stress_management/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Self-development',
-                    'url': '/roadmap/robo_human/self_development',
+                    'url': 'roadmap/robo_human/self_development/',
                     'category': 'node',
                 },
 
@@ -195,27 +195,27 @@ export default
             'text': 'Robo-technician',
             'fx': 0,
             'fy': -700,
-            'url': '/roadmap/robo_technician',
+            'url': 'roadmap/robo_technician/',
             'category': 'node',
             'nodes': [
                 {
                     'text': 'Prototyping',
-                    'url': '/roadmap/robo_technician/prototyping',
+                    'url': 'roadmap/robo_technician/prototyping/',
                     'category': 'node',
                 },
                 {
                     'text': 'Sensors',
-                    'url': '/roadmap/robo_technician/sensors',
+                    'url': 'roadmap/robo_technician/sensors/',
                     'category': 'node',
                 },
                 {
                     'text': 'Actuators',
-                    'url': '/roadmap/robo_technician/actuators',
+                    'url': 'roadmap/robo_technician/actuators/',
                     'category': 'node',
                 },
                 {
                     'text': 'Microcontrollers',
-                    'url': '/roadmap/robo_technician/microcontrollers',
+                    'url': 'roadmap/robo_technician/microcontrollers/',
                     'category': 'node',
                 }, ],
         },
@@ -224,44 +224,44 @@ export default
             'text': 'Robo-programmer',
             'fx': -550,
             'fy': -700,
-            'url': '/roadmap/robo_programmer',
+            'url': 'roadmap/robo_programmer/',
             'category': 'node',
             'nodes': [
                 {
                     'text': 'Software Architecture',
-                    'url': '/roadmap/robo_programmer/software_architecture/',
+                    'url': 'roadmap/robo_programmer/software_architecture/',
                     'category': 'node',
                 },
                 {
                     'text': 'Clean Code',
-                    'url': '/roadmap/robo_programmer/clean_code/',
+                    'url': 'roadmap/robo_programmer/clean_code/',
                     'category': 'node',
                 },
                 {
                     'text': 'Tests',
-                    'url': '/roadmap/robo_programmer/tests/',
+                    'url': 'roadmap/robo_programmer/tests/',
                     'category': 'node',
                 },
                 {
                     'text': 'Programming Languages',
-                    'url': '/roadmap/robo_programmer/languages/',
+                    'url': 'roadmap/robo_programmer/languages/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Algorithms',
-                    'url': '/roadmap/robo_programmer/algorithms/',
+                    'url': 'roadmap/robo_programmer/algorithms/',
                     'category': 'node',
                 },
 
                 {
                     'text': 'Coding tools',
-                    'url': '/roadmap/robo_programmer/tools/',
+                    'url': 'roadmap/robo_programmer/tools/',
                     'category': 'node',
                 },
                 {
                     'text': 'Concurrent Programming',
-                    'url': '/roadmap/robo_programmer/concurrent_programming/',
+                    'url': 'roadmap/robo_programmer/concurrent_programming/',
                     'category': 'node',
                 }, ],
         },
