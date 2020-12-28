@@ -3,7 +3,7 @@ const
     description
 } = require('../../package')
 
-module.exports =
+    module.exports =
 {
     base: '/RoboticsRoadmap/',
     title: 'Robotics Roadmap',
@@ -70,13 +70,14 @@ module.exports =
         // As a special case, the default locale can use '/' as its path.
         '/':
         {
-            lang: 'English', // this will be set as the lang attribute on <html>
+            lang: 'en-US', // this will be set as the lang attribute on <html>
             title: 'Robotics Roadmap',
             description: 'Robotics Roadmap to help to get started in the Robotics field'
         },
         '/ru/':
         {
-            lang: 'Русский',
+            lang: 'ru-RU',
+            label: "Robotics Roadmap",
             title: 'Роадмап робототехники',
             description: ''
         }
@@ -84,118 +85,145 @@ module.exports =
 
     themeConfig:
     {
-        repo: '',
-        editLinks: false,
-        docsDir: 'roadmap',
-        editLinkText: '',
-        lastUpdated: true,
-        nav: [
-            {
-                text: 'How to use',
-                link: '/guide/',
-            },
-            {
-                text: 'GitHub',
-                link: 'https://github.com/Sarrasor/RoboticsRoadmap',
-            },
-        ],
-        displayAllHeaders: false,
-        sidebarDepth: 2,
-        sidebar:
+        locales:
         {
-            '/roadmap/robo_human/':
-            [
-                '../',
-                '',
-                'communication/',
-                'teamwork/',
-                'time_management/',
-                'stress_management/',
-                'self_development/',
-            ],
+            '/':
+            {
+                label: "English",
+                repo: '',
+                editLinks: false,
+                docsDir: 'roadmap',
+                editLinkText: '',
+                lastUpdated: true,
+                nav: [
+                    {
+                        text: 'How to use',
+                        link: '/guide/',
+                    },
+                    {
+                        text: 'GitHub',
+                        link: 'https://github.com/Sarrasor/RoboticsRoadmap',
+                    },
+                ],
+                displayAllHeaders: false,
+                sidebarDepth: 2,
+                sidebar:
+                {
+                    '/roadmap/robo_human/':
+                    [
+                        '../',
+                        '',
+                        'communication/',
+                        'teamwork/',
+                        'time_management/',
+                        'stress_management/',
+                        'self_development/',
+                    ],
 
-            '/roadmap/robo_integrator/':
-            [
-                '../',
-                '',
-                'ros/',
-                'devops/',
-                'api/',
-                'storage/',
-                'cloud/',
-            ],
+                    '/roadmap/robo_integrator/':
+                    [
+                        '../',
+                        '',
+                        'ros/',
+                        'devops/',
+                        'api/',
+                        'storage/',
+                        'cloud/',
+                    ],
 
-            '/roadmap/robo_manager/':
-            [
-                '../',
-                '',
-                'hr/',
-                'product_owner/',
-                'project_manager/',
-            ],
+                    '/roadmap/robo_manager/':
+                    [
+                        '../',
+                        '',
+                        'hr/',
+                        'product_owner/',
+                        'project_manager/',
+                    ],
 
-            '/roadmap/robo_programmer/':
-            [
-                '../',
-                '',
-                'clean_code/',
-                'concurrent_programming/',
-                'languages/',
-                'algorithms/',
-                'software_architecture/',
-                'tests/',
-                'tools/',
-            ],
+                    '/roadmap/robo_programmer/':
+                    [
+                        '../',
+                        '',
+                        'clean_code/',
+                        'concurrent_programming/',
+                        'languages/',
+                        'algorithms/',
+                        'software_architecture/',
+                        'tests/',
+                        'tools/',
+                    ],
 
-            '/roadmap/robo_scientist/':
-            [
-                '../',
-                '',
-                'data_science/',
-                'optimization/',
-                'control_theory/',
-                'computer_vision/',
-                'decision_making/',
-                'localization/',
-                'calculus/',
-                'linear_algebra/',
-                'differential_equations/',
-                'physics/',
-                'prob_stat/',
-            ],
+                    '/roadmap/robo_scientist/':
+                    [
+                        '../',
+                        '',
+                        'data_science/',
+                        'optimization/',
+                        'control_theory/',
+                        'computer_vision/',
+                        'decision_making/',
+                        'localization/',
+                        'calculus/',
+                        'linear_algebra/',
+                        'differential_equations/',
+                        'physics/',
+                        'prob_stat/',
+                    ],
 
-            '/roadmap/robo_technician/':
-            [
-                '../',
-                '',
-                'prototyping/',
-                'sensors/',
-                'actuators/',
-                'microcontrollers/',
-            ],
+                    '/roadmap/robo_technician/':
+                    [
+                        '../',
+                        '',
+                        'prototyping/',
+                        'sensors/',
+                        'actuators/',
+                        'microcontrollers/',
+                    ],
 
-            '/roadmap/':
-            [
-                '../guide/',
-                '',
-                'robo_human/',
-                'robo_integrator/',
-                'robo_manager/',
-                'robo_programmer/',
-                'robo_scientist/',
-                'robo_technician/',
-            ],
+                    '/roadmap/':
+                    [
+                        '../guide/',
+                        '',
+                        'robo_human/',
+                        'robo_integrator/',
+                        'robo_manager/',
+                        'robo_programmer/',
+                        'robo_scientist/',
+                        'robo_technician/',
+                    ],
 
-            '/guide/':
-            [
-                '',
-                '../roadmap/',
-            ],
+                    '/guide/':
+                    [
+                        '',
+                        '../roadmap/',
+                    ],
 
-            '/': [
-                '',
-                'guide/',
-            ]
+                    '/': [
+                        '',
+                        'guide/',
+                    ]
+                },
+
+            },
+            '/ru/':
+            {
+                label: "Русский",
+                repo: '',
+                editLinks: false,
+                docsDir: 'roadmap',
+                editLinkText: '',
+                lastUpdated: true,
+                nav: [
+                    {
+                        text: 'Как использовать',
+                        link: '/guide/',
+                    },
+                    {
+                        text: 'GitHub',
+                        link: 'https://github.com/Sarrasor/RoboticsRoadmap',
+                    },
+                ],
+            },
         },
     },
 
