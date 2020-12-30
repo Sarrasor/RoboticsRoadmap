@@ -165,6 +165,7 @@ const
                         'localization/',
                         'calculus/',
                         'linear_algebra/',
+                        'discrete_math/',
                         'differential_equations/',
                         'physics/',
                         'prob_stat/',
@@ -177,7 +178,7 @@ const
                         'prototyping/',
                         'sensors/',
                         'actuators/',
-                        'microcontrollers/',
+                        'electronics/',
                     ],
 
                     '/roadmap/':

@@ -15,4 +15,4 @@ Even if world goes to VR, physical things are required to maintain it
 - [Prototyping](./prototyping)
 - [Sensors](./sensors)
 - [Actuators](./actuators)
-- [Microcontrollers](./microcontrollers)
+- [Electronics](./electronics)

@@ -8,6 +8,28 @@
 <Buzzword text="MATLAB"/>
 <Buzzword text="CUDA"/>
 
+## Python
+
+The core of fast pro
+
+## MATLAB
+
+Very convenient for research. Optimization, Machine Learning, Robotics and other packages are waitnig for you 
+
+## C++
+
+The
+
+You should know Standard Template Library. Basically, it is efficient implementation of common data structures and algorithms. [Check out](../algorithms/) what algorithms and data structures you should know.
+
+## C
+
+Want to rule hardware? C is the right choice for you. Motor drivers, microcontrollers
+
+You will have to master memory management. So, pointers and malloc should become
+
+If you want to use the power of GPU's parallel computation, you can go with CUDA
+
 ## Links
 
 ### Books

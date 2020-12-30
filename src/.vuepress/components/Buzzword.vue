@@ -1,5 +1,5 @@
 <template>
-  <a :href="'http://www.google.com/search?q=' + text" class="buzzword">{{text}}</a>
+  <a :href="'http://www.google.com/search?q=' + text + ' ' + search_postfix" class="buzzword">{{text}}</a>
 </template>
 
 <script>
@@ -11,8 +11,15 @@ export default
     text: 
     {
       type: String,
-      required: true
+      required: true,
     },
+
+    search_postfix:
+    {
+      type: String,
+      default: '',
+      required: false,
+    }
   }
 }
 </script>

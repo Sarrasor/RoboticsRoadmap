@@ -132,6 +132,12 @@ export default
                 },
 
                 {
+                    'text': 'Discrete Mathematics',
+                    'url': 'roadmap/robo_scientist/discrete_math/',
+                    'category': 'node',
+                },
+
+                {
                     'text': 'Differential Equations',
                     'url': 'roadmap/robo_scientist/differential_equations/',
                     'category': 'node',
@@ -214,8 +220,8 @@ export default
                     'category': 'node',
                 },
                 {
-                    'text': 'Microcontrollers',
-                    'url': 'roadmap/robo_technician/microcontrollers/',
+                    'text': 'Electronics',
+                    'url': 'roadmap/robo_technician/electronics/',
                     'category': 'node',
                 }, ],
         },

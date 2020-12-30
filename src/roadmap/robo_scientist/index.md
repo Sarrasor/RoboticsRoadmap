@@ -20,6 +20,7 @@ This is the base of any technology
 - [Localization](./localization)
 - [Calculus](./calculus)
 - [Linear Algebra](./linear_algebra)
+- [Discrete Mathematics](./discrete_math)
 - [Differential Equations](./differential_equations)
 - [Physics](./physics)
 - [Probability and Statistics](./prob_stat)

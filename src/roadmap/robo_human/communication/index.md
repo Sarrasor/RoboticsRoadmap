@@ -1,5 +1,7 @@
 # Communication
 
+## Opinion delivery
+
 ## Feedback
 
 ## Conflict management
