@@ -234,8 +234,8 @@ export default
             'category': 'node',
             'nodes': [
                 {
-                    'text': 'Software Architecture',
-                    'url': 'roadmap/robo_programmer/software_architecture/',
+                    'text': 'Algorithms',
+                    'url': 'roadmap/robo_programmer/algorithms/',
                     'category': 'node',
                 },
                 {
@@ -244,8 +244,8 @@ export default
                     'category': 'node',
                 },
                 {
-                    'text': 'Tests',
-                    'url': 'roadmap/robo_programmer/tests/',
+                    'text': 'Concurrent Programming',
+                    'url': 'roadmap/robo_programmer/concurrent_programming/',
                     'category': 'node',
                 },
                 {
@@ -253,23 +253,22 @@ export default
                     'url': 'roadmap/robo_programmer/languages/',
                     'category': 'node',
                 },
-
                 {
-                    'text': 'Algorithms',
-                    'url': 'roadmap/robo_programmer/algorithms/',
+                    'text': 'Software Architecture',
+                    'url': 'roadmap/robo_programmer/software_architecture/',
                     'category': 'node',
                 },
-
                 {
-                    'text': 'Coding tools',
+                    'text': 'Tests',
+                    'url': 'roadmap/robo_programmer/tests/',
+                    'category': 'node',
+                },
+                {
+                    'text': 'Tools',
                     'url': 'roadmap/robo_programmer/tools/',
                     'category': 'node',
                 },
-                {
-                    'text': 'Concurrent Programming',
-                    'url': 'roadmap/robo_programmer/concurrent_programming/',
-                    'category': 'node',
-                }, ],
+            ],
         },
     ],
 

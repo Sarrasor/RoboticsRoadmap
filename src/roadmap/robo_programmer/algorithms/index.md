@@ -1,4 +1,15 @@
+---
+tags:
+  - data structure
+  - complexity
+  - big o
+---
+
 # Algorithms
+
+::: block Quote
+An algorithm must be seen to be believed © Donald Knuth
+:::
 
 ## Buzzwords
 
@@ -24,21 +35,24 @@
 
 We should know how to treat the most precious resource we have - data
 
-The problem is, data is used in different ways. For example, consider an array of numbers.
+The problem is, data can be used in different ways. For example, consider an array of numbers:
 
-You might need to access it sequentially
+- You might need to access it sequentially, or you should be able to compare pairs of numbers
+- You might have limited memory or limited computing power, or both
+- What happens if you need to add items from your array?
+- What happens if you need to remove items from your array?
 
-And what happens if you need to add or remove items from your array?
-
-Data Structures will teach you have to manage
+Data Structures will teach you how to satisfy your requirements
 
 ## Algorithms
 
-Ok, now we can access the data efficiently. Time to process it. Algorithms teach us how to process data.
+Ok, now we can access the data efficiently. Time to process it. Algorithms teach us how to process data to get the desired results
 
 ## Complexity Analysis
 
-Every data structure and every algorithm have their strengths and weaknesses.
+Every data structure and every algorithm have their strengths and weaknesses
+
+You can utilize Big-O notation - mathematical way of describing performance of data structures and algorithms
 
 ## Links
 

@@ -1,5 +1,9 @@
 # Programming Languages
 
+::: block Quote
+A language that doesn't affect the way you think about programming is not worth knowing © Alan Perlis
+:::
+
 ## Buzzwords
 
 <Buzzword text="C"/>
@@ -10,23 +14,29 @@
 
 ## Python
 
-The core of fast pro
+The core of fast prototyping, Machine Learning, Backend development and other cool things
+
+Easy to get started: no types, no braces, no need to compile
+
+Python has many great data science related libraries: Numpy, Pandas, Scikit-learn, Tensorflow, Pytorch, OpenCV
+
+Python can be used for [API creation](../../robo_integrator/api/): Flask, Django, FastAPI
 
 ## MATLAB
 
-Very convenient for research. Optimization, Machine Learning, Robotics and other packages are waitnig for you 
+Very convenient for research. Optimization Toolbox, Statistics and Machine Learning Toolbox, Robotics Toolbox and other packages are waitnig for you
 
 ## C++
 
-The
+Your choice when you need to have something performing blazing-fast
 
-You should know Standard Template Library. Basically, it is efficient implementation of common data structures and algorithms. [Check out](../algorithms/) what algorithms and data structures you should know.
+You should know the **S**tandard **T**emplate **L**ibrary (STL). Basically, it is efficient implementation of common data structures and algorithms. [Check out](../algorithms/) what algorithms and data structures it's good to know
 
 ## C
 
 Want to rule hardware? C is the right choice for you. Motor drivers, microcontrollers
 
-You will have to master memory management. So, pointers and malloc should become
+You will have to master memory management. So, pointers and malloc should become your friends
 
 If you want to use the power of GPU's parallel computation, you can go with CUDA
 

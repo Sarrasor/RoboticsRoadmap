@@ -144,10 +144,10 @@ const
                     [
                         '../',
                         '',
+                        'algorithms/',
                         'clean_code/',
                         'concurrent_programming/',
                         'languages/',
-                        'algorithms/',
                         'software_architecture/',
                         'tests/',
                         'tools/',
@@ -231,5 +231,14 @@ const
     plugins: [
         '@vuepress/plugin-back-to-top',
         '@vuepress/plugin-medium-zoom',
+
+        ['container',
+            {
+                type: 'block',
+                defaultTitle: '',
+                before: info => `<div class="block"><p class="title">${info}</p>`,
+                after: '</div>',
+            }
+        ],
     ]
 }

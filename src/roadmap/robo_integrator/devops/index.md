@@ -11,6 +11,7 @@
 <Buzzword text="Ansible"/>
 <Buzzword text="Terraform"/>
 <Buzzword text="Jenkins"/>
+<Buzzword text="Travis CI"/>
 <Buzzword text="SonarQube"/>
 <Buzzword text="GitHub Actions"/>
 
