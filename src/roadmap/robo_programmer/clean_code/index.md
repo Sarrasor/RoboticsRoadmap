@@ -6,13 +6,13 @@ tags:
 
 # Clean Code
 ::: block Quote
-It is not enough for code to work © Robert C. Martin
+It is not enough for code to work © **Robert C. Martin**
 :::
 
 ## Buzzwords
 
 <Buzzword text="Git"/>
-<Buzzword text="Gitflow workflow"/>
+<Buzzword text="Gitflow"/>
 <Buzzword text="OOP"/>
 <Buzzword text="SOLID"/>
 <Buzzword text="Documentation"/>
@@ -38,7 +38,7 @@ project_folder:
 
 Git is the most widely used VCS, but you should be aware of CVS, SVN and Mercurial
 
-[GitHub](https://github.com/), [GitLab](https://gitlab.com/) and [Bitbucket](https://bitbucket.org/) can help you with hosting you repositories with code
+[GitHub](https://github.com/), [GitLab](https://gitlab.com/) and [Bitbucket](https://bitbucket.org/) can help you with hosting you repositories with code. This comes in handy when you're working in a team and need to share a codebase. One of the most common practices when working with Git is called Gitflow
 
 ## Code style
 

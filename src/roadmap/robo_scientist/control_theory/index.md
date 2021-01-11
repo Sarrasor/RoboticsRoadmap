@@ -4,6 +4,9 @@ tags:
 ---
 
 # Control Theory
+:::block Quote
+Sound scientific theory has usually led not only to prediction but to control © **Clark L. Hull**
+:::
 
 ## Buzzwords
 

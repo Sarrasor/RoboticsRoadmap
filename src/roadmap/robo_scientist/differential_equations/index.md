@@ -7,7 +7,9 @@ tags:
 
 # Differential Equations
 
-Model the way things work
+::: block Quote
+Among all of the mathematical disciplines the theory of differential equations is the most important. It furnishes the explanation of all those elementary manifestations of nature which involve time © **Sophus Lie**
+:::
 
 ## Buzzwords
 

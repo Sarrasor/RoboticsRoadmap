@@ -7,6 +7,10 @@ tags:
 
 # Calculus
 
+::: block Quote
+Nothing takes place in the world whose meaning is not that of some maximum or minimum  © **Leonard Euler**
+:::
+
 ## Buzzwords
 
 <Buzzword text="Derivative"/>
@@ -50,3 +54,7 @@ tags:
 
 - [Essence of calculus. 3B1B](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
+
+### Articles
+
+- [Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/)

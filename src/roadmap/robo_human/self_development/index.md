@@ -18,6 +18,8 @@ It is necessary to stay up to date in IT. New algorithms and approaches are cons
 
 Lifelong learning is essential
 
+- [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
+
 ## Reflection
 
 You should be able to analyze and improve your behaviour. Even bad experiences can be benifitial

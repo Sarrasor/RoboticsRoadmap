@@ -4,6 +4,10 @@ tags:
 ---
 
 # Physics
+:::block Quote
+What one man calls God, another calls the laws of physics © **Nikola Tesla**
+:::
+
 
 ## Buzzwords
 

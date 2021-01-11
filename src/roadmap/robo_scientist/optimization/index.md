@@ -7,6 +7,10 @@ tags:
 
 # Optimization
 
+:::block Quote
+Whats gets measured gets improved  © **Peter Drucker**
+:::
+
 ## Buzzwords
 
 <Buzzword text="Linear Programming"/>

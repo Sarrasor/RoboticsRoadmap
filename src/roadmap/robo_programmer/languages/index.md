@@ -1,7 +1,7 @@
 # Programming Languages
 
 ::: block Quote
-A language that doesn't affect the way you think about programming is not worth knowing © Alan Perlis
+A language that doesn't affect the way you think about programming is not worth knowing © **Alan Perlis**
 :::
 
 ## Buzzwords

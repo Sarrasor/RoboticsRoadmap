@@ -7,7 +7,9 @@ tags:
 
 # Linear Algebra
 
-Teaches us how to stack a bunch of numbers into a box to get interesting results
+:::block Quote
+Nothing pleases a mathematician so much as having a bunch of numbers in brackets
+:::
 
 ## Buzzwords
 

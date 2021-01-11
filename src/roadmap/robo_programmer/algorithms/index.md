@@ -8,7 +8,7 @@ tags:
 # Algorithms
 
 ::: block Quote
-An algorithm must be seen to be believed © Donald Knuth
+An algorithm must be seen to be believed © **Donald Knuth**
 :::
 
 ## Buzzwords
@@ -21,8 +21,10 @@ An algorithm must be seen to be believed © Donald Knuth
 <Buzzword text="Heap" search_postfix="Data Structure"/>
 <Buzzword text="Binary Search Tree"/>
 <Buzzword text="AVL Tree"/>
+<Buzzword text="Red-Black Tree"/>
 <Buzzword text="B-Tree"/>
 <Buzzword text="Hash Table"/>
+<Buzzword text="Set" search_postfix="Data Structure"/>
 <Buzzword text="Quicksort"/>
 <Buzzword text="Merge Sort"/>
 <Buzzword text="Depth First Search"/>

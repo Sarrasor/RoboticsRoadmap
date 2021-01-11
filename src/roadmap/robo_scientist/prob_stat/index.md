@@ -5,6 +5,10 @@ tags:
 
 # Probability and Statistics
 
+:::block Quote
+It is a part of probability that many improbable things will happen © **Aristotle**
+:::
+
 ## Buzzwords
 
 <Buzzword text="Random variable"/>
