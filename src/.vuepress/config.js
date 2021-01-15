@@ -146,6 +146,7 @@ const
                         '',
                         'algorithms/',
                         'clean_code/',
+                        'legacy_code/',
                         'concurrent_programming/',
                         'languages/',
                         'software_architecture/',
@@ -228,16 +229,25 @@ const
         },
     },
 
-    plugins: [
+    plugins:
+    [
         '@vuepress/plugin-back-to-top',
         '@vuepress/plugin-medium-zoom',
 
-        ['container',
+        [
+            'container',
             {
                 type: 'block',
                 defaultTitle: '',
                 before: info => `<div class="block"><p class="title">${info}</p>`,
                 after: '</div>',
+            }
+        ],
+
+        [
+            '@vuepress/google-analytics',
+            {
+                'ga': 'UA-96209688-1'
             }
         ],
     ]

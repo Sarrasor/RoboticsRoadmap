@@ -14,6 +14,7 @@ You will, probably, avoid "Aw, cuap, it is easier to rewrite it from scratch!"
 ## Branches
 - [Algorithms](./algorithms)
 - [Clean Code](./clean_code)
+- [Legacy Code](./legacy_code)
 - [Concurrent Programming](./concurrent_programming)
 - [Programming Languages](./languages)
 - [Software Architecture](./software_architecture)

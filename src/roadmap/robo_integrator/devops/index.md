@@ -14,6 +14,12 @@
 <Buzzword text="Travis CI"/>
 <Buzzword text="SonarQube"/>
 <Buzzword text="GitHub Actions"/>
+<Buzzword text="SRE"/>
+
+
+## DevOps ideology
+
+## Site reliability engineering
 
 ## Links
 

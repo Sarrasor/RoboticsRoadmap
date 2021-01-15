@@ -17,6 +17,7 @@
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
     "@vuepress/plugin-back-to-top": "^1.7.1",
+    "@vuepress/plugin-google-analytics": "^1.8.0",
     "@vuepress/plugin-medium-zoom": "^1.7.1",
     "babel-loader": "^8.2.2",
     "vue-mindmap": "^0.0.4",

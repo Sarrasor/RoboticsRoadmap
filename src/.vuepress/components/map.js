@@ -244,6 +244,11 @@ export default
                     'category': 'node',
                 },
                 {
+                    'text': 'Legacy Code',
+                    'url': 'roadmap/robo_programmer/legacy_code/',
+                    'category': 'node',
+                },
+                {
                     'text': 'Concurrent Programming',
                     'url': 'roadmap/robo_programmer/concurrent_programming/',
                     'category': 'node',
