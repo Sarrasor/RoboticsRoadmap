@@ -1,9 +1,8 @@
-# RoboticsRoadmap
-Roadmap with skills for a full-stack Robotics engineer
+![Title](./images/title.png)
 
-**Check out the [website](https://sarrasor.github.io/RoboticsRoadmap/)**
+### Check out the [webpage](https://sarrasor.github.io/RoboticsRoadmap/)
 
-![Roadmap](./images/map.png)
+[![Roadmap](./images/map.png)](https://sarrasor.github.io/RoboticsRoadmap/)
 
 
 ## How to run locally

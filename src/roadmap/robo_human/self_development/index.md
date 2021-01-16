@@ -20,6 +20,10 @@ Lifelong learning is essential
 
 - [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 
+- [Technology radar](https://www.thoughtworks.com/radar)
+
+- [Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+
 ## Reflection
 
 You should be able to analyze and improve your behaviour. Even bad experiences can be benifitial
