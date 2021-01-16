@@ -1,3 +1,12 @@
+---
+tags:
+  - python
+  - c++
+  - c
+  - matlab
+  - cuda
+---
+
 # Programming Languages
 
 ::: block Quote
@@ -32,6 +41,19 @@ Your choice when you need to have something performing blazing-fast
 
 You should know the **S**tandard **T**emplate **L**ibrary (STL). Basically, it is efficient implementation of common data structures and algorithms. [Check out](../algorithms/) what algorithms and data structures it's good to know
 
+Here are several must-know concepts for a C++ programmer:
+
+- Program Compilation and Linking, Dynamic Libraries
+- C++ memory model
+- Move Semantics
+- The rule of three (five)
+- RAII
+- Smart Pointers
+- Iterator Invalidation
+- Polymorphism, Inheritance, Virtual Methods
+- Overloading, Operator overloading
+- Templates
+
 ## C
 
 Want to rule hardware? C is the right choice for you. Motor drivers, microcontrollers
@@ -45,6 +67,12 @@ If you want to use the power of GPU's parallel computation, you can go with CUDA
 ### Books
 
 - [The C Programming Language](https://www.goodreads.com/book/show/515601.The_C_Programming_Language)
+
+- [The C++ Programming Language](https://www.goodreads.com/book/show/112251.The_C_Programming_Language)
+
+- [Effective C++: 55 Specific Ways to Improve Your Programs and Designs](https://www.goodreads.com/book/show/105125.Effective_C_)
+
+- [Learning Python](https://www.goodreads.com/book/show/80435.Learning_Python)
 
 ### Articles
 

@@ -90,10 +90,10 @@ const
             '/':
             {
                 label: "English",
-                repo: '',
-                editLinks: false,
+                repo: 'Sarrasor/RoboticsRoadmap',
+                editLinks: true,
+                editLinkText: 'Help to improve this page',
                 docsDir: 'roadmap',
-                editLinkText: '',
                 lastUpdated: true,
                 nav: [
                     {

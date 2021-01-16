@@ -13,18 +13,27 @@ The way the processor industry is going, is to add more and more cores, but nobo
 
 <Buzzword text="Thread"/>
 <Buzzword text="Parallel computation"/>
+<Buzzword text="Lock-free programming"/>
+<Buzzword text="Blocking call"/>
+<Buzzword text="Non-Blocking call"/>
 <Buzzword text="Multithreading"/>
 <Buzzword text="GPU"/>
 <Buzzword text="TPU"/>
-<Buzzword text="Fork process"/>
+<Buzzword text="Fork" search_postfix="system call"/>
+<Buzzword text="Race condition"/>
 <Buzzword text="Producer-Consumer"/>
 <Buzzword text="Dinning philosophers"/>
+<Buzzword text="Deadlock"/>
+<Buzzword text="Mutex"/>
+<Buzzword text="Synchronization" search_postfix="Computer Science"/>
 
 ## Links
 
 ### Articles
 
 - [A Tutorial on Multithreading and Concurrency in C++](https://www.educative.io/blog/modern-multithreading-and-concurrency-in-cpp)
+
+- [An Introduction to Lock-Free Programming](https://preshing.com/20120612/an-introduction-to-lock-free-programming/)
 
 ### Repositories
 
@@ -34,3 +43,5 @@ The way the processor industry is going, is to add more and more cores, but nobo
 ### Books
 
 - [C++ Concurrency in Action: Practical Multithreading](https://www.cplusplusconcurrencyinaction.com/)
+
+- [Modern Operating Systems](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems)

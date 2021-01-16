@@ -1,3 +1,8 @@
+---
+tags:
+  - debugger
+---
+
 # Legacy code
 
 ![Code quality measure](./images/wtf_pm.png)

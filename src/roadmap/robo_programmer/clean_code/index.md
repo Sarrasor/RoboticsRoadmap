@@ -58,9 +58,15 @@ In case you need to select a code style for your team, [here](https://google.git
 
 - [Clean Code. Uncle Bob](https://www.goodreads.com/book/show/3735293-clean-code)
 
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+
 - [Design Patterns. GoF](https://www.goodreads.com/book/show/85009.Design_Patterns)
 
 - [Refactoring: Improving the Design of Existing Code. Martin Fowler](https://www.goodreads.com/book/show/44936.Refactoring)
+
+### Website
+
+- [Refactoring Guru](https://refactoring.guru/refactoring)
 
 ### Articles
 

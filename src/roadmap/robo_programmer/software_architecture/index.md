@@ -10,6 +10,7 @@ If you think good architecture is expensive, try bad architecture © **Brian Foo
 <Buzzword text="Monolithic application"/>
 <Buzzword text="Business Logic"/>
 <Buzzword text="Model-View-Controller"/>
+<Buzzword text="Test plan"/>
 
 ## Links
 

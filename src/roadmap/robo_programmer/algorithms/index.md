@@ -20,10 +20,12 @@ An algorithm must be seen to be believed © **Donald Knuth**
 <Buzzword text="Stack" search_postfix="Data Structure"/>
 <Buzzword text="Heap" search_postfix="Data Structure"/>
 <Buzzword text="Binary Search Tree"/>
+<Buzzword text="Trie"/>
 <Buzzword text="AVL Tree"/>
 <Buzzword text="Red-Black Tree"/>
 <Buzzword text="B-Tree"/>
 <Buzzword text="Hash Table"/>
+<Buzzword text="Bloom filter"/>
 <Buzzword text="Set" search_postfix="Data Structure"/>
 <Buzzword text="Quicksort"/>
 <Buzzword text="Merge Sort"/>
@@ -32,6 +34,9 @@ An algorithm must be seen to be believed © **Donald Knuth**
 <Buzzword text="Dijkstra's Algorithm"/>
 <Buzzword text="Greedy Algorithms"/>
 <Buzzword text="Dynamic Programming"/>
+<Buzzword text="Two Pointers"/>
+<Buzzword text="Backtracking"/>
+
 
 ## Data Structures
 
@@ -56,9 +61,19 @@ Every data structure and every algorithm have their strengths and weaknesses
 
 You can utilize Big-O notation - mathematical way of describing performance of data structures and algorithms
 
+## Whiteboard Coding
+
+Very common practice on coding interviews these days. The task is to solve a programming problem using a whiteboard instead of an IDE
+
 ## Links
 
 ### Books
 - [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 
 - [Introduction to Algorithms](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)
+
+- [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/54845619-cracking-the-coding-interview)
+
+### Websites
+
+- [LeetCode: Algorithm implementation practice](https://leetcode.com/)
