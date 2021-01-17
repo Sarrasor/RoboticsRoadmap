@@ -14,3 +14,10 @@
 
 ## Delegation
 
+
+## Links
+
+### Websites
+
+- [Large-Scale Scrum](https://less.works/)
+

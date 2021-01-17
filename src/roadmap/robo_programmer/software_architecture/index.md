@@ -1,4 +1,5 @@
 # Software Architecture
+
 ::: block Quote
 If you think good architecture is expensive, try bad architecture © **Brian Foote**
 :::

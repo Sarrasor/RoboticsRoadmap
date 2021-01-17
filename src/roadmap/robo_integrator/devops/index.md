@@ -25,7 +25,7 @@
 
 ### Videos
 
-- [What is Infrastracture as Code](https://www.youtube.com/watch?v=POPP2WTJ8es)
+- [What is Infrastructure as Code](https://www.youtube.com/watch?v=POPP2WTJ8es)
 
 - [Intro to Kubernetes](https://www.youtube.com/watch?v=7bA0gTroJjw)
 

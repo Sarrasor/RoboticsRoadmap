@@ -29,17 +29,17 @@ Easy to get started: no types, no braces, no need to compile
 
 Python has many great data science related libraries: Numpy, Pandas, Scikit-learn, Tensorflow, Pytorch, OpenCV
 
-Python can be used for [API creation](../../robo_integrator/api/): Flask, Django, FastAPI
+Python can be used for [API creation](../../robo_integrator/api/): Django, FastAPI, Flask
 
 ## MATLAB
 
-Very convenient for research. Optimization Toolbox, Statistics and Machine Learning Toolbox, Robotics Toolbox and other packages are waitnig for you
+Very convenient for research. Optimization Toolbox, Statistics and Machine Learning Toolbox, Robotics Toolbox and other packages are waiting for you
 
 ## C++
 
 Your choice when you need to have something performing blazing-fast
 
-You should know the **S**tandard **T**emplate **L**ibrary (STL). Basically, it is efficient implementation of common data structures and algorithms. [Check out](../algorithms/) what algorithms and data structures it's good to know
+You should know the <!-- yaspeller ignore:start --> **S**tandard **T**emplate **L**ibrary <!-- yaspeller ignore:end --> (STL). Basically, it is efficient implementation of common data structures and algorithms. [Check out](../algorithms/) what algorithms and data structures it's good to know
 
 Here are several must-know concepts for a C++ programmer:
 

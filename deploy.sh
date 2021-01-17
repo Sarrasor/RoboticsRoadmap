@@ -3,6 +3,9 @@
 # abort on errors
 set -e
 
+# Check spelling
+yarn spell
+
 # build
 yarn build
 

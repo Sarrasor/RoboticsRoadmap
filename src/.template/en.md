@@ -24,6 +24,11 @@ Links to branches that require this branch as a prerequisite
 
 Place for useful links to other resources:
 
+### Websites
+
+- [Website 1](https://www.google.com/)
+- [Website 2](https://www.google.com/)
+
 ### Books
 
 References to cool related books:

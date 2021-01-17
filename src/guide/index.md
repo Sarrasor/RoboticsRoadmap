@@ -4,7 +4,7 @@
 
 Current version of the roadmap mainly consists of "Buzzwords"
 
-[Les't see what we've got](../roadmap/)
+[Let's see what we've got](../roadmap/)
 
 ## Learning
 
@@ -14,4 +14,4 @@ Click on a buzzwords to search for it in Google
 
 ## Self-check
 
-You can open some branch, skim through Buzzwords and see what compences you're missing
+You can open some branch, skim through Buzzwords and see what competences you're missing

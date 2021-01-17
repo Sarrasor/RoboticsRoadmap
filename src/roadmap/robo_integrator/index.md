@@ -4,7 +4,7 @@ title: Robo-Integrator
 
 # Robo-Integrator
 
-Ok, assume you've created your cool algorighm. But what to do next? How to deliver it? How to maintain it?
+Ok, assume you've created your cool algorithm. But what to do next? How to deliver it? How to maintain it?
 
 ## Why this section is important
 

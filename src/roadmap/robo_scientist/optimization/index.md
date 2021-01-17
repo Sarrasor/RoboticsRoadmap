@@ -8,7 +8,7 @@ tags:
 # Optimization
 
 :::block Quote
-Whats gets measured gets improved  © **Peter Drucker**
+What gets measured gets improved  © **Peter Drucker**
 :::
 
 ## Buzzwords

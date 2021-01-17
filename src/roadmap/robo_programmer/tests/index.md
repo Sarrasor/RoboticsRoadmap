@@ -17,7 +17,7 @@ Human mistake is not a bug, it is a feature, probably...  ¯\\\_(ツ)\_/¯
 <Buzzword text="Non-Functional Requirements"/>
 <Buzzword text="TDD"/>
 
-## Test Driven Deelopment
+## Test Driven Development
 
 If you're doing something more serious than a pet-project, you should write tests. Tests are the way for programmers to underwrite their work
 

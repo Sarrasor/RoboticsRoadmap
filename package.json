@@ -3,14 +3,17 @@
   "version": "0.0.1",
   "description": "Robotics Roadmap to help to get started in the Robotics field",
   "main": "index.js",
-  "authors": {
+  "authors": 
+  {
     "name": "Daniil Burakov",
     "email": "sarrasorwork@gmail.com"
   },
   "repository": "https://github.com/Sarrasor/RoboticsRoadmap/",
-  "scripts": {
+  "scripts": 
+  {
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src",
+    "spell": "yaspeller ."
   },
   "license": "CC-BY-SA-4.0",
   "devDependencies": {
@@ -22,9 +25,11 @@
     "babel-loader": "^8.2.2",
     "vue-mindmap": "^0.0.4",
     "vuepress": "^1.5.3",
-    "webpack": "^5.11.0"
+    "webpack": "^5.11.0",
+    "yaspeller": "^7.0.0"
   },
-  "dependencies": {
+  "dependencies": 
+  {
     "prism-themes": "^1.5.0",
     "vuepress-plugin-container": "^2.1.5"
   }

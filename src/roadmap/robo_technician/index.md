@@ -1,8 +1,8 @@
 ---
-title: Robo-Technichian
+title: Robo-Technician
 ---
 
-# Robo-Technichian
+# Robo-Technician
 
 If you want to build a real robot, you have to use some hardware
 

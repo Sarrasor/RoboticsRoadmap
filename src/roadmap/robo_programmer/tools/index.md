@@ -20,6 +20,7 @@ Professional programmer knows how to use a computer properly
 
 <Buzzword text="IDE"/>
 <Buzzword text="Linter"/>
+<Buzzword text="Regular Expression"/>
 <Buzzword text="Vim"/>
 <Buzzword text="Emacs"/>
 <Buzzword text="Dotfiles"/>
@@ -45,11 +46,11 @@ You should have an environment where you feel comfortable
 
 ## IDE
 
-Modern IDEs like VSCode and JetBrains products are a great choice. They provide linting, spell checking, autoformatting, syntax highlighting and many other useful thigs to boost your efficiency
+Modern IDEs like VSCode and JetBrains products are a great choice. They provide linting, spell checking, autoformatting, syntax highlighting and many other useful things to boost your efficiency
 
 It is also recommended to know how to use terminal tools like Vim and Emacs. Helps in the situation when you have to do some stuff on a remote server
 
-## Jupyther Notebooks
+## Jupyter Notebooks
 
 You can use Jupyter Notebooks for interactive experiments. They are the best when you're tinkering with datasets and exploring new things
 

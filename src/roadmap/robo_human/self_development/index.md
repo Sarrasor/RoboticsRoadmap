@@ -1,16 +1,16 @@
 # Self-development
 
-## Habbit handling
+## Habit handling
 
-You can set your goals, but it is more benefitial to set your habbits
+You can set your goals, but it is more beneficial to set your habits
 
 Here is what I mean
 
-Instead of setting a goal like "I want to loose 10 lbs till the end of the year", you should set a habbit "I want to visit gym at least three times a week"
+Instead of setting a goal like "I want to loose 10 kg till the end of the year", you should set a habit "I want to visit gym at least three times a week"
 
-Goals can be dissapointing if you are not able to reach them. There are factors that are not in your power to change
+Goals can be disappointing if you are not able to reach them. There are factors that are not in your power to change
 
-Goals require self-control and willpower which are periodically exausted
+Goals require self-control and willpower which are periodically exhausted
 
 ## Learning skills
 
@@ -26,7 +26,7 @@ Lifelong learning is essential
 
 ## Reflection
 
-You should be able to analyze and improve your behaviour. Even bad experiences can be benifitial
+You should be able to analyze and improve your behaviour. Even bad experiences can be beneficial
 
 Here are some links to check out:
 
@@ -52,7 +52,7 @@ You can visit conferences and other IT-related events
 
 ### Competitions
 
-You can participate in hackatons and competitions:
+You can participate in hackathons and competitions:
 
 - [Kaggle](https://www.kaggle.com/) - machine learning competitions
 

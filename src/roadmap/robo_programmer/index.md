@@ -8,7 +8,7 @@ You should be able to code your ideas
 
 ## Why this section is important
 
-You will, probably, avoid "Aw, cuap, it is easier to rewrite it from scratch!"
+You will, probably, avoid "Aw, poop, it is easier to rewrite it from scratch!"
 
 
 ## Branches

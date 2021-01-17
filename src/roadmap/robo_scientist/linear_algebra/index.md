@@ -38,7 +38,7 @@ Any matrix can be treated as a transformation from one space to another. Knowled
 
 ## Special Matrices and Factorization
 
-Sometimes it might be benifitial to represent a matrix as a product of several matrices. This can help to speed-up comutation and to uncover hidden structure
+Sometimes it might be beneficial to represent a matrix as a product of several matrices. This can help to speed-up computation, and to uncover hidden structure
 
 Here are some cool matrices:
 
