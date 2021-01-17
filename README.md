@@ -26,18 +26,24 @@ Now you can go to `http://localhost:8080/` to see the website. All changes you m
 
 ## How to contribute
 
+### Suggestions
+
+You are free to open an issue [here](https://github.com/Sarrasor/RoboticsRoadmap/issues/new)
+
+### Modifications
+
 1. Run the environment locally
 2. Make your awesome changes
-3. Run tests and visually examine your changes on `http://localhost:8080/`
+3. Run checks with `./check.sh` and visually examine your changes on `http://localhost:8080/`
 4. Submit a Pool Request
 5. Wait for the review
 
-### TODO
+#### TODO
 
 - [ ] Automatic tests
 	- [x] Spell checker
 	- [x] Link checker
-	- [ ] Precommit checks
+	- [ ] Pre-commit checks
 	- [ ] GitHub actions
 		- [ ] Weekly link check
 - [ ] Automatic mindmap generation
