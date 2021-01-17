@@ -57,7 +57,7 @@ You can use Jupyter Notebooks for interactive experiments. They are the best whe
 Notebooks also provide you with the ability to write markdown documentation. This is great for hands-on tutorials and explanations
 
 ::: block Pro Tip
-[Google Colab](https://colab.research.google.com/) is a free to use version of Jupyter Notebooks that requires no installation
+[Google Colab](https://www.google.com/search?q=Google+Colab) is a free to use version of Jupyter Notebooks that requires no installation
 :::
 
 ### Dotfiles

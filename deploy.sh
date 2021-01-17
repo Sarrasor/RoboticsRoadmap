@@ -4,10 +4,16 @@
 set -e
 
 # Check spelling
-yarn spell
+yarn spell-check
+
+# Internal link check
+yarn internal-link-check
 
 # build
 yarn build
+
+# External link check
+yarn external-link-check
 
 # navigate into the build output directory
 cd src/.vuepress/dist

@@ -15,7 +15,7 @@
   "ignoreCapitalization": true,
   "ignoreText": 
   [
-    ["---[^]*?---", "g"],
+    ["---[^]*?---", "g"]
   ],
   "dictionary": 
   [

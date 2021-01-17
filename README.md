@@ -35,8 +35,11 @@ Now you can go to `http://localhost:8080/` to see the website. All changes you m
 ### TODO
 
 - [ ] Automatic tests
-	- [ ] Spell checker
-	- [ ] Link checker
+	- [x] Spell checker
+	- [x] Link checker
+	- [ ] Precommit checks
+	- [ ] GitHub actions
+		- [ ] Weekly link check
 - [ ] Automatic mindmap generation
 - [ ] Automatic table of contents generation
 - [ ] Automatic GitHub Pages deploy on push to main

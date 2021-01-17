@@ -233,6 +233,7 @@ const
     [
         '@vuepress/plugin-back-to-top',
         '@vuepress/plugin-medium-zoom',
+        'check-md',
 
         [
             'container',

@@ -32,7 +32,7 @@ Here are some links to check out:
 
 - [Why You Should Make Time for Self-Reflection](https://hbr.org/2017/03/why-you-should-make-time-for-self-reflection-even-if-you-hate-doing-it)
 
-- [15 Ways To Practice Self-Reflection](https://www.minimalismmadesimple.com/home/self-reflection)
+- [15 Ways To Practice Self-Reflection](https://www.minimalismmadesimple.com/home/self-reflection/)
 
 - [Principles by Ray Dalio](https://www.goodreads.com/book/show/34536488-principles)
 
