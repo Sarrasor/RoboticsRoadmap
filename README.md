@@ -2,7 +2,7 @@
 
 ### Check out the [webpage](https://sarrasor.github.io/RoboticsRoadmap/)
 
-[![Roadmap](./images/map.png)](https://sarrasor.github.io/RoboticsRoadmap/)
+[![Roadmap](./images/map_image.png)](https://sarrasor.github.io/RoboticsRoadmap/)
 
 
 ## How to run locally

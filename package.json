@@ -13,7 +13,7 @@
     "build": "vuepress build src",
     "spell-check": "yaspeller .",
     "internal-link-check": "vuepress check-md src",
-    "external-link-check": "link-checker src/.vuepress/dist --external-only"
+    "external-link-check": "link-checker src/.vuepress/dist --external-only --http-redirects 3"
   },
   "license": "CC-BY-SA-4.0",
   "devDependencies": {
