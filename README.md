@@ -35,7 +35,7 @@ You are free to open an issue [here](https://github.com/Sarrasor/RoboticsRoadmap
 1. Run the environment locally
 2. Make your awesome changes
 3. Run checks with `./check.sh` and visually examine your changes on `http://localhost:8080/`
-4. Submit a Pool Request
+4. Submit a Pull Request
 5. Wait for the review
 
 #### TODO

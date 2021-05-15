@@ -1,5 +1,9 @@
 # Self-development
 
+## Food
+
+## Sport
+
 ## Habit handling
 
 You can set your goals, but it is more beneficial to set your habits

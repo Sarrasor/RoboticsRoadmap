@@ -11,6 +11,27 @@ export default
         },
 
         {
+            'text': 'Robo-inventor',
+            'fx': -550,
+            'fy': -150,
+            'url': 'roadmap/robo_inventor/',
+            'category': 'node',
+            'nodes': [
+                {
+                    'text': 'Customer Development',
+                    'url': 'roadmap/robo_inventor/customer_development/',
+                    'category': 'node',
+                },
+
+                {
+                    'text': 'Hypothesis Testing',
+                    'url': 'roadmap/robo_inventor/hypothesis_testing/',
+                    'category': 'node',
+                },
+            ],
+        },
+
+        {
             'text': 'Robo-manager',
             'fx': -150,
             'fy': -200,
@@ -118,6 +139,12 @@ export default
                     'url': 'roadmap/robo_scientist/localization/',
                     'category': 'node',
                 },
+                
+                {
+                    'text': 'Digital Signal Processing',
+                    'url': 'roadmap/robo_scientist/dsp/',
+                    'category': 'node',
+                },
 
                 {
                     'text': 'Calculus',
@@ -154,13 +181,19 @@ export default
                     'url': 'roadmap/robo_scientist/prob_stat/',
                     'category': 'node',
                 },
+
+                {
+                    'text': 'Research',
+                    'url': 'roadmap/robo_scientist/research/',
+                    'category': 'node',
+                },
             ],
         },
 
         {
             'text': 'Robo-human',
-            'fx': -550,
-            'fy': -200,
+            'fx': -750,
+            'fy': -400,
             'url': 'roadmap/robo_human/',
             'category': 'node',
             'nodes': [
@@ -204,6 +237,11 @@ export default
             'url': 'roadmap/robo_technician/',
             'category': 'node',
             'nodes': [
+                {
+                    'text': 'Mechanism Design',
+                    'url': 'roadmap/robo_technician/mechanism_design/',
+                    'category': 'node',
+                },
                 {
                     'text': 'Prototyping',
                     'url': 'roadmap/robo_technician/prototyping/',
@@ -278,6 +316,16 @@ export default
     ],
 
     'connections': [
+         {
+            'source': 'Robotics Engineer',
+            'target': 'Robo-inventor',
+            "curve":
+            {
+                "x": 100,
+                "y": 100
+            }
+        },
+
         {
             'source': 'Robotics Engineer',
             'target': 'Robo-manager',
@@ -323,8 +371,8 @@ export default
             'target': 'Robo-human',
             "curve":
             {
-                "x": -200,
-                "y": 100
+                "x": -400,
+                "y": -100
             }
         },
 

@@ -19,7 +19,7 @@
 
 ## DevOps ideology
 
-## Site reliability engineering
+## Site Reliability Engineering
 
 ## Links
 

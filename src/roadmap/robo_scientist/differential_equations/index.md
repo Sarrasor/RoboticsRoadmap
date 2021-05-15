@@ -17,6 +17,7 @@ Among all of the mathematical disciplines the theory of differential equations i
 <Buzzword text="Euler method"/>
 <Buzzword text="Trapezoidal rule"/>
 <Buzzword text="Runge-Kutta"/>
+<Buzzword text="Transfer functions"/>
 
 ## First order ODEs
 
@@ -25,6 +26,8 @@ Among all of the mathematical disciplines the theory of differential equations i
 ## Systems of ODEs
 
 ## Numerical integration
+
+## Transfer functions
 
 ## Links
 

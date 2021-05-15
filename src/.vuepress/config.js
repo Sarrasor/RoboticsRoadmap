@@ -140,6 +140,14 @@ const
                         'project_manager/',
                     ],
 
+                    '/roadmap/robo_inventor/':
+                    [
+                        '../',
+                        '',
+                        'customer_development/',
+                        'hypothesis_testing/',
+                    ],
+
                     '/roadmap/robo_programmer/':
                     [
                         '../',
@@ -164,18 +172,21 @@ const
                         'computer_vision/',
                         'decision_making/',
                         'localization/',
+                        'dsp/',
                         'calculus/',
                         'linear_algebra/',
                         'discrete_math/',
                         'differential_equations/',
                         'physics/',
                         'prob_stat/',
+                        'research/',
                     ],
 
                     '/roadmap/robo_technician/':
                     [
                         '../',
                         '',
+                        'mechanism_design/',
                         'prototyping/',
                         'sensors/',
                         'actuators/',

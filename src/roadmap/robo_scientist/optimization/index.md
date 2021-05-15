@@ -25,7 +25,6 @@ What gets measured gets improved  © **Peter Drucker**
 <Buzzword text="Evolutionary Algorithms"/>
 <Buzzword text="Particle Swarm Optimization"/>
 
-
 ## Links
 
 ### Courses

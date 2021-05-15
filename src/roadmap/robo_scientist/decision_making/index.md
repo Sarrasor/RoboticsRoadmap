@@ -13,6 +13,9 @@ tags:
 <Buzzword text="Finite State Machine"/>
 <Buzzword text="Behaviour Tree"/>
 <Buzzword text="Lattice Planner"/>
+<Buzzword text="Swarm Robotics"/>
+
+## Swarm Robotics
 
 ## Links
 

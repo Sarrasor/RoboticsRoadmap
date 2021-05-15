@@ -32,6 +32,11 @@ Machine learning is the science of getting computers to learn without being expl
 <Buzzword text="Dimensionality reduction"/>
 <Buzzword text="Convolutional Neural Networks"/>
 <Buzzword text="Generative Adversarial Networks"/>
+<Buzzword text="Grafana"/>
+
+## Information Retrieval
+
+## Data Visualization
 
 ## Convolutional Networks
 

@@ -12,3 +12,9 @@
 
 ## Product Decisions and Feature life cycle
 
+## Links
+
+### Websites
+
+- [Go Practice Simulator](https://gopractice.io/)
+

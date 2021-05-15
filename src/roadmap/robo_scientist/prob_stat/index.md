@@ -20,6 +20,7 @@ It is a part of probability that many improbable things will happen © **Aristot
 <Buzzword text="Significance tests"/>
 <Buzzword text="Hypothesis testing"/>
 <Buzzword text="AB testing"/>
+<Buzzword text="RANSAC"/>
 
 ## Links
 

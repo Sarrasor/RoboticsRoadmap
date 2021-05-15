@@ -19,6 +19,16 @@ Sound scientific theory has usually led not only to prediction but to control ©
 <Buzzword text="Model Predictive Control"/>
 <Buzzword text="Kalman filter"/>
 <Buzzword text="Particle filter"/>
+<Buzzword text="Transfer Functions"/>
+<Buzzword text="Bode Plot"/>
+
+## Transfer Functions
+
+## Bode Plot analysis
+
+## Model Predictive Control
+
+### LQR
 
 ## Links
 
