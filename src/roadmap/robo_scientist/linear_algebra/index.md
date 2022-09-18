@@ -105,7 +105,7 @@ The method to speedup numerical calculations and equations solving
 
 - [Matrix algebra for engineers](https://www.coursera.org/learn/matrix-algebra-engineers)
 
-- [Linear algebra. Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+- [Linear algebra. Gilbert Strang](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010)
 
 ### Videos
 
