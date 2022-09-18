@@ -222,6 +222,18 @@ export default
                 },
 
                 {
+                    'text': 'Workplace',
+                    'url': 'roadmap/robo_human/workplace/',
+                    'category': 'node',
+                },
+
+                {
+                    'text': 'Health',
+                    'url': 'roadmap/robo_human/health/',
+                    'category': 'node',
+                },
+
+                {
                     'text': 'Self-development',
                     'url': 'roadmap/robo_human/self_development/',
                     'category': 'node',

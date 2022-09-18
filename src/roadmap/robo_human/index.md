@@ -16,4 +16,6 @@ Really big things are being done in teams. So, you have to know how to interact 
 - [Teamwork](./teamwork)
 - [Time management](./time_management)
 - [Stress management](./stress_management)
+- [Workplace](./workplace)
+- [Health](./health)
 - [Self-development](./self_development)

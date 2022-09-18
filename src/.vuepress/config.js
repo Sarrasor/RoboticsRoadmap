@@ -118,6 +118,8 @@ const
                         'time_management/',
                         'stress_management/',
                         'self_development/',
+                        'workplace/',
+                        'health/',
                     ],
 
                     '/roadmap/robo_integrator/':
@@ -146,6 +148,16 @@ const
                         '',
                         'customer_development/',
                         'hypothesis_testing/',
+                    ],
+
+                    '/roadmap/robo_programmer/languages/':
+                    [
+                        '../',
+                        '',
+                        'cpp/',
+                        'python/',
+                        'shell/',
+                        'matlab/',
                     ],
 
                     '/roadmap/robo_programmer/':

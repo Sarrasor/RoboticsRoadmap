@@ -16,6 +16,10 @@ tags:
 
 The main purpose of a debugger is not to debug your code, but to help you understand other's person code, and you will do this a lot
 
+- GDB
+- LLDB
+- Process debugging
+
 ## Links
 
 ### Articles

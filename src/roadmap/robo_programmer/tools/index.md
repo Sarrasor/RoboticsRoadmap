@@ -14,8 +14,6 @@ Professional carpenter knows how to use a jack-plane properly
 Professional programmer knows how to use a computer properly
 :::
 
-
-
 ## Buzzwords
 
 <Buzzword text="IDE"/>
@@ -44,6 +42,10 @@ Here are a couple of websites to practice your typing:
 
 You should have an environment where you feel comfortable
 
+## Console
+
+- Tmux
+
 ## IDE
 
 Modern IDEs like VSCode and JetBrains products are a great choice. They provide linting, spell checking, autoformatting, syntax highlighting and many other useful things to boost your efficiency
@@ -66,6 +68,26 @@ What if I told you, your programming toolbox can always be with you, regardless 
 
 Dotfiles can help you with that. Check out the [Dotfiles guide](https://dotfiles.github.io/)
 
+
+## Privacy
+
+## Build systems
+
+## Package managers
+
+## Virtualization and Containerization
+
+- VM
+- Docker
+- FUSE
+- SSHF
+- SSH
+
+## Text redactors
+
+- Markdown
+- LaTeX
+- Overleaf
 
 ## Links
 

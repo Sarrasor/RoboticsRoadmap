@@ -1,9 +1,16 @@
 # Job Search
 
-
 ## Technical Interview
 
+### Self-presentation Section
+
+### Algorithmic Section
+
+### Technical Section
+
 ### Questions for employer
+
+## System Design Interview
 
 ## Links
 
